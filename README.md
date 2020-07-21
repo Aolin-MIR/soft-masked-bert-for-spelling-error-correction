@@ -1,1 +1,1 @@
-# liaolin-soft-masked-bert-for-spelling-error-correction
+A third-party implementation of paper《Spelling Error Correction with Soft-Masked BERT》using tensorflow 1.X.
